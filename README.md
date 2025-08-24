@@ -13,4 +13,8 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamitsu212&layout=compact&theme=radical)
+## Моя статистика GitHub
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamitsu212&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamitsu212&theme=radical" alt="GitHub Streak Stats" />
+</div>
