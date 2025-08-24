@@ -14,7 +14,7 @@
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
 ## Моя статистика GitHub
-<div style="display: flex; flex-wrap: wrap; gap: 50px; align-items: flex-start;">
+<div style="display: flex; flex-wrap: wrap; align-items: flex-start;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamitsu212&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamitsu212&theme=radical" alt="GitHub Streak Stats" />
 </div>
