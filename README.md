@@ -25,5 +25,9 @@
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
     <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">Верстка адаптивных макетов с Figma</a>
   </div>
+
+   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
+    <a href="https://github.com/Shamitsu212/TEST_NDM" target="_blank">Компонент с логикой на React + TS</a>
+  </div>
   
 </div>
