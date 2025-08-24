@@ -13,7 +13,4 @@
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
 
-## Моя статистика GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shamitsu212&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shamitsu212&layout=compact&theme=radical)
