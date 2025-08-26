@@ -37,6 +37,8 @@
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
     <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">Реакт приложение с интеграцией Google Booking API</a>
   </div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamitsu212&theme=radical" alt="GitHub Streak Stats" />
+  <div style="display: flex; flex-wrap: wrap; align-items: flex-start; gap: 10px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shamitsu212&theme=radical" alt="GitHub Streak Stats" />
+  </div>
   
 </div>
