@@ -3,6 +3,7 @@
 Начинающий React frontend-developer 
 
 📫 Контакты: [email](sasadorozko121@gmail.com)
+              TG: @m2345654
 
 ## Стек технологий
 <p align="left">
