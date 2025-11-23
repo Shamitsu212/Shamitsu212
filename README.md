@@ -3,11 +3,11 @@
 Начинающий React frontend-developer 
 
 📫 Контакты: [email](sasadorozko121@gmail.com)
-              TG: @m2345654
+              TG: @d5363704
 
 ## Стек технологий
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,axios" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,axios" />
 </p>
 
 ## Портфолио
