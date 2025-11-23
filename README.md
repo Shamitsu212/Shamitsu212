@@ -37,4 +37,9 @@
     <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">Реакт приложение с интеграцией Google Booking API</a>
   </div>
   
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
+    <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">Vue приложение для просмотра постов с API JSONPlaceholder и простого взаимодействия</a>
+  </div>
+
+  
 </div>
