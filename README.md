@@ -2,7 +2,7 @@
 
 Начинающий frontend-developer 
 
-📫 Контакты: [email](sasadorozko121@gmail.com)
+📫 Контакты: email: sasadorozko121@gmail.com
               TG: @d5363704
 
 ## Стек технологий
