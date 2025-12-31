@@ -14,11 +14,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">Верстка по макету с Figma</a>
+    <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">Верстка по макету с Figma на чистом HTML/CSS</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">Верстка адаптивных макетов с Figma</a>
+    <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">Верстка адаптивных макетов с Figma на чистом HTML/CSS</a>
   </div>
   
    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
@@ -26,15 +26,15 @@
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/Figma_to_React" target="_blank">Верстка макета с использованием React</a>
+    <a href="https://github.com/Shamitsu212/Figma_to_React" target="_blank">Верстка макета Figma с использованием React</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">Реакт приложение с технологией Drag and Drop</a>
+    <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">React приложение с технологией Drag and Drop</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">Реакт приложение с интеграцией Google Booking API</a>
+    <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">React приложение с интеграцией Google Booking API</a>
   </div>
   
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
