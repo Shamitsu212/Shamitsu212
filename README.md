@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠 Стек технологий
+## Стек технологий
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,axios" />
 </p>
@@ -19,7 +19,7 @@
 
 ---
 
-### 🧱 Верстка макетов Figma
+### Верстка макетов Figma
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -45,7 +45,7 @@
 
 ---
 
-### 🧪 Тестовые задания от компаний (HH)
+### Тестовые задания от компаний (HH)
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -65,7 +65,7 @@
 
 ---
 
-### 🐾 Pet-проекты
+### Pet-проекты
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
