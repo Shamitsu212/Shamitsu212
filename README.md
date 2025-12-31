@@ -1,50 +1,85 @@
 # Александр
 
-Начинающий frontend-developer 
+Начинающий frontend-developer  
 
-📫 Контакты: email: sasadorozko121@gmail.com
-              TG: @d5363704
+📫 Контакты:  
+- Email: sasadorozko121@gmail.com  
+- Telegram: @d5363704  
 
-## Стек технологий
+---
+
+## 🛠 Стек технологий
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,axios" />
 </p>
 
-## Портфолио
+---
 
+## 📁 Портфолио
+
+---
+
+### 🧱 Верстка макетов Figma
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
-  ##Верстка макетов Figma
-  <div style="display: flex; flex-wrap: wrap; gap: 10px;>
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-      <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">Верстка макета Figma с использованием HTML/SCSS</a>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-      <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">Верстка адаптивных макетов Figma с использованием HTML/SCSS</a>
-    </div>
-    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-      <a href="https://github.com/Shamitsu212/Figma_to_React" target="_blank">Верстка макета Figma с использованием React</a>
-    </div>
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">
+      Верстка макета Figma (HTML / SCSS)
+    </a>
   </div>
-##Тестовые задания от компаний с HH
-<div style="display: flex; flex-wrap: wrap; gap: 10px;>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/TEST_NDM" target="_blank">Компонент с логикой на React + TS</a>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">
+      Адаптивная верстка макетов Figma
+    </a>
   </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">React приложение с технологией Drag and Drop</a>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/Figma_to_React" target="_blank">
+      Верстка макета Figma на React
+    </a>
   </div>
-</div>
-## Pet-проекты
-<div style="display: flex; flex-wrap: wrap; gap: 20px;>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">React приложение с интеграцией Google Booking API</a>
-  </div>
-  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">Vue приложение для просмотра постов с API JSONPlaceholder и простого взаимодействия</a>
-  </div>
+
 </div>
 
-  
+---
+
+### 🧪 Тестовые задания от компаний (HH)
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/TEST_NDM" target="_blank">
+      Тестовое задание — React + TypeScript
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">
+      Тестовое задание — React Drag and Drop
+    </a>
+  </div>
+
 </div>
+
+---
+
+### 🐾 Pet-проекты
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">
+      React приложение с API Google Books
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">
+      Vue приложение с API JSONPlaceholder
+    </a>
+  </div>
+
+</div>
+
