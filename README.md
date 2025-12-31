@@ -14,11 +14,11 @@
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">Верстка по макету с Figma на чистом HTML/CSS</a>
+    <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">Верстка макета Figma с использованием HTML/SCSS</a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
-    <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">Верстка адаптивных макетов с Figma на чистом HTML/CSS</a>
+    <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">Верстка адаптивных макетов Figma с использованием HTML/SCSS</a>
   </div>
   
    <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 250px;">
