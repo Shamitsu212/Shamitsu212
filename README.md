@@ -101,5 +101,11 @@
     </a>
   </div>
 
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://www.codewars.com/users/Shamitsu212" target="_blank">
+      Профиль Codewars
+    </a>
+  </div>
+
 </div>
 
