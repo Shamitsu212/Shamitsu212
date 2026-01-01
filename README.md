@@ -89,3 +89,17 @@
 
 </div>
 
+---
+
+### Codewars
+
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/codewars-solutions" target="_blank">
+      Задачи вместе с решениями.
+    </a>
+  </div>
+
+</div>
+
