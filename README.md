@@ -82,6 +82,12 @@
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/ReactAndRedux_shop" target="_blank">
+      React+Redux приложение маркет плейса с возможностью добавлять товар в корзину
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">
       Vue приложение с API JSONPlaceholder
     </a>
