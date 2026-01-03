@@ -93,6 +93,12 @@
     </a>
   </div>
 
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/VueAndPinia_shop" target="_blank">
+      Vue+Pinia приложение маркет плейса с возможностью добавлять товар в корзину
+    </a>
+  </div>
+
 </div>
 
 ---
