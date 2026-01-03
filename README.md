@@ -10,7 +10,7 @@
 
 ## Стек технологий
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,axios" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,axios,pinia" />
 </p>
 
 ---
