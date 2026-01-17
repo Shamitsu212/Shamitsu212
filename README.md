@@ -82,6 +82,12 @@
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/React_ModalWindow/tree/main" target="_blank">
+      Простое модальное окно React/TS
+    </a>
+  </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">
       React приложение с API Google Books
     </a>
