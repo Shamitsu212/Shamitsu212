@@ -9,9 +9,33 @@
 ---
 
 ## Стек технологий
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,redux,pinia" />
-</p>
+<table>
+  <tr>
+    <td>
+      <b>Языки</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,js" />
+    </td>
+    <td>
+      <b>Фреймворки</b><br><br>
+      <img src="https://skillicons.dev/icons?i=react,vue" />
+    </td>
+    <td>
+      <b>CSS</b><br><br>
+      <img src="https://skillicons.dev/icons?i=css,scss" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <b>Statemanagers</b><br><br>
+      <img src="https://skillicons.dev/icons?i=redux,pinia" />
+    </td>
+    <td>
+      <b>Сборщики</b><br><br>
+      <img src="https://skillicons.dev/icons?i=vite" />
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
