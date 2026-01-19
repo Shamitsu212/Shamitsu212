@@ -1,6 +1,6 @@
 # Александр
 
-Начинающий frontend-developer  
+Frontend-developer  
 
 📫 Контакты:  
 - Email: sasadorozko121@gmail.com  
