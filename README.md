@@ -13,7 +13,7 @@
   <tr>
     <td>
       <b>Языки</b><br><br>
-      <img src="https://skillicons.dev/icons?i=html,js" />
+      <img src="https://skillicons.dev/icons?i=ts,js" />
     </td>
     <td>
       <b>Фреймворки</b><br><br>
@@ -26,12 +26,12 @@
   </tr>
   <tr>
     <td>
-      <b>Statemanagers</b><br><br>
-      <img src="https://skillicons.dev/icons?i=redux,pinia" />
-    </td>
-    <td>
       <b>Сборщики</b><br><br>
       <img src="https://skillicons.dev/icons?i=vite" />
+    </td>
+    <td>
+      <b>Statemanagers</b><br><br>
+      <img src="https://skillicons.dev/icons?i=redux,pinia" />
     </td>
     <td></td>
   </tr>
