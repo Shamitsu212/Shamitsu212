@@ -33,7 +33,10 @@
       <b>Statemanagers</b><br><br>
       <img src="https://skillicons.dev/icons?i=redux,pinia" />
     </td>
-    <td></td>
+    <td>
+      <b>HTML</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html" />
+    </td>
   </tr>
 </table>
 
