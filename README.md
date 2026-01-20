@@ -98,7 +98,7 @@ Frontend-developer
 
 ---
 
-### Pet-проекты
+### Pet-проекты · React
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px;">
 
@@ -138,6 +138,14 @@ Frontend-developer
     </a>
   </div>
 
+</div>
+
+---
+
+### Pet-проекты · Vue
+
+<div>
+  
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">
       Клиентское приложение с внешним API Vue/JS/JSONPlaceholder
@@ -149,7 +157,7 @@ Frontend-developer
       Приложение с pinia store VUE/Pinia/JS
     </a>
   </div>
-
+  
 </div>
 
 ---
