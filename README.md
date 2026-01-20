@@ -2,7 +2,7 @@
 
 Frontend-developer  
 
-📫 Контакты:  
+## 📫 Контакты:  
 - Email: sasadorozko121@gmail.com  
 - Telegram: @d5363704  
 
