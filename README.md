@@ -52,25 +52,25 @@ Frontend-developer
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/figma-to-html" target="_blank">
-      Верстка макета Figma (HTML / SCSS)
+      Верстка HTML
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Adaptive-layout" target="_blank">
-      Адаптивная верстка макетов Figma
+      Адаптивная верстка HTML
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Figma_to_React" target="_blank">
-      Верстка макета Figma на React
+      Верстка React
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Figma_to_VUE" target="_blank">
-      Верстка макета Figma на VUE
+      Верстка VUE
     </a>
   </div>
 
@@ -84,13 +84,13 @@ Frontend-developer
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/TEST_NDM" target="_blank">
-      Тестовое задание — React + TypeScript
+      Задача от "НДМ Системы"
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/resume_creator" target="_blank">
-      Тестовое задание — React Drag and Drop
+      Задача от "ООО Мир технологий"
     </a>
   </div>
 
@@ -104,13 +104,13 @@ Frontend-developer
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/React_counter" target="_blank">
-      Cчетчик на React/TS
+      Cчетчик React/TS
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/React_ModalWindow/tree/main" target="_blank">
-      Простое модальное окно React/TS
+      Модальное окно React/TS
     </a>
   </div>
 
@@ -122,31 +122,31 @@ Frontend-developer
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/React_UserList" target="_blank">
-      Список пользователей React/TS
+      Список пользователей React/Redux/TS
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/Book-Recommendation-System" target="_blank">
-      React приложение с API Google Books
+      Клиентское приложение с внешним API React/JS/GoogleBookApi
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/ReactAndRedux_shop" target="_blank">
-      React+Redux приложение маркет плейса с возможностью добавлять товар в корзину
+      Приложение с redux store React/Redux/JS
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">
-      Vue приложение с API JSONPlaceholder
+      Клиентское приложение с внешним API Vue/JS/JSONPlaceholder
     </a>
   </div>
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/VueAndPinia_shop" target="_blank">
-      Vue+Pinia приложение маркет плейса с возможностью добавлять товар в корзину
+      Приложение с pinia store VUE/Pinia/JS
     </a>
   </div>
 
@@ -160,7 +160,7 @@ Frontend-developer
 
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/codewars-solutions" target="_blank">
-      Задачи вместе с решениями.
+      Задачи/Решения
     </a>
   </div>
 
