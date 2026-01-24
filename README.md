@@ -163,6 +163,12 @@ Frontend-developer
       Cчетчик Vue/TS
     </a>
   </div>
+
+  <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
+    <a href="https://github.com/Shamitsu212/Vue_ModalWindow" target="_blank">
+      Модальное окно Vue/TS
+    </a>
+  </div>
   
   <div style="border: 1px solid #ddd; border-radius: 10px; padding: 15px; width: 260px;">
     <a href="https://github.com/Shamitsu212/VUE_Post_Application" target="_blank">
