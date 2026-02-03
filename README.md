@@ -16,7 +16,7 @@ Frontend-developer
       <img src="https://skillicons.dev/icons?i=ts,js" />
     </td>
     <td>
-      <b>Фреймворки</b><br><br>
+      <b>Фреймворки/Библиотеки</b><br><br>
       <img src="https://skillicons.dev/icons?i=react,vue" />
     </td>
     <td>
