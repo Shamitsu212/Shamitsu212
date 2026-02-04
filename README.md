@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://t.me/d5363704">Telegram</a>
   &nbsp;•&nbsp;
-  <a href="mailto:dorozhkoalexandr.commercial@email.com">Email</a>
+  <a href="mailto:dorozhkoalexandr.commercial@gmail.com">Email</a>
 </p>
 
 <br />
@@ -83,6 +83,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" height="42"/>
   </a>
 </p>
+
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
 <p align="center">
   <a align="center" href="https://github.com/Shamitsu212/PetProject-List/blob/main/README.md"> 
