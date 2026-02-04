@@ -84,7 +84,10 @@
   </a>
 </p>
 
-<a align="center" href="https://github.com/Shamitsu212/PetProject-List/blob/main/README.md"> 
-  Портфолио
-</a>
+<p align="center">
+  <a align="center" href="https://github.com/Shamitsu212/PetProject-List/blob/main/README.md"> 
+    Портфолио
+  </a>
+</p>
+
 
