@@ -84,8 +84,7 @@
   </a>
 </p>
 
-<br/><br/>
-<br/><br/>
+<br />
 
 <p align="center">
   <a align="center" href="https://github.com/Shamitsu212/PetProject-List/blob/main/README.md"> 
