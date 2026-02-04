@@ -55,7 +55,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://pinia.vuejs.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pinia/pinia-original.svg" width="42" height="42"/>
+    <img src="https://raw.githubusercontent.com/vuejs/pinia/main/logo.svg" width="42" height="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://vitejs.dev/" target="_blank">
