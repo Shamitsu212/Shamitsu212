@@ -25,13 +25,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="42" />
 </div>
 
-<div align="center" style="margin:0; margin-bottom:10px; line-height:0;">
+<div align="center" style="margin:0; line-height:0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" />
 </div>
 
+<br/>
 
 <p align="center">
   <a href="https://github.com/Shamitsu212/PetProject-List">
