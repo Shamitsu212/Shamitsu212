@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <div>
+  <div style="margin-bottom: 6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="42" />
@@ -10,7 +10,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" />
   </div>
 
-  <div>
+  <div style="margin-bottom: 6px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="42" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="42" />
@@ -26,3 +26,9 @@
   </div>
 
 </div>
+
+<p align="center">
+  <a href="https://github.com/Shamitsu212/PetProject-List/blob/main/README.md">
+    Портфолио
+  </a>
+</p>
