@@ -6,8 +6,6 @@
   <a href="mailto:dorozhkoalexandr.commercial@gmail.com">Email</a>
 </p>
 
----
-
 ### 🛠 Languages and Tools
 
 <p align="center">
@@ -32,8 +30,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="42" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="42" />
 </p>
-
----
 
 <p align="center">
   <a href="https://github.com/Shamitsu212/PetProject-List">
